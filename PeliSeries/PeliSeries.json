@@ -1,0 +1,57 @@
+{
+    "peliculas":[
+        {
+            "pelicula_id":"",
+            "titulo":"",
+            "estreno":"",
+            "duracion":"",
+            "sinopsis":"",
+            "estudio":"",
+            "director":"",
+            "elenco":"",
+            "poster":"",
+            "trailer":"",
+            "pais":"Argentina",
+            "genero":["Drama", "Accion"]
+        }
+    ],
+    "Series":[
+        {
+            "serie_id":"",
+            "titulo":"",
+            "estreno":"",
+            "duracion":"",
+            "sinopsis":"",
+            "estudio":"",
+            "director":"",
+            "elenco":"",
+            "poster":"",
+            "trailer":"",
+            "pais":"Argentina",
+            "genero":["Drama", "Romance"],
+            "temporadas":[
+                {
+                    "temporada_id":"",
+                    "numero":"",
+                    "estreno":"",
+                    "titulo":"",
+                    "sinopsis":"",
+                    "poster":"",
+                    "trailer":"",
+                    "episodios":[
+                        {
+                            "episodio_id":"",
+                            "numero":"",
+                            "estreno":"",
+                            "titulo":"",
+                            "sinopsis":"",
+                            "director":"",
+                            "duracion":""
+                        }
+                    ]
+                }
+            ]
+
+        }
+    ]
+}
